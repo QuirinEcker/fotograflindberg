@@ -1,0 +1,40 @@
+body{
+	background-color: #1E1E1E;
+	font-family: helvetica;
+	width: 820px;
+}
+
+h1{
+	color: white;
+	text-transform: uppercase;
+	font-weight: 100;
+	border-bottom: 3px dotted white;
+}
+
+p{
+	color: white;
+	line-height: 22px;
+}
+
+ul{
+	background-color: white;
+	width: 150px;
+	padding: 7px;
+	list-style: none;
+	display: block;
+	float: left;
+	margin: 0px 20px;
+}
+
+a:link{
+	line-height: 30px;
+	border-bottom: 2px dotted black;
+	color: black;
+}
+
+img{
+	width: 600px;
+	border: 10px solid white;
+	float: right
+}
+
